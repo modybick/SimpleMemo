@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">メモ</string>
+    <string name="action_add">追加</string>
+    <string name="hint_title">タイトル</string>
+    <string name="hint_content">内容</string>
+    <string name="action_delete">削除</string>
+    <string name="action_edit">編集</string>
+    <string name="editoractivity_title">編集</string>
+    <string name="msg_destruction">変更を破棄しました</string>
+    <string name="saveError">ファイルの保存に失敗しました</string>
+    <string name="readError">ファイルの読み込みに失敗しました</string>
+    <string name="context_del">削除</string>
+    <string name="msg_del">メモを削除しました</string>
+    <string name="non_title">無題</string>
+    <string name="vieweractivity_title">参照</string>
+    <string name="alart_del">メモを削除しますか？</string>
+    <string name="alart_del_title">削除</string>
+</resources>
